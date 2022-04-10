@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//qdphung19.github.io/annexx/static/css/main.be66359b.css",
+    "main.js": "//qdphung19.github.io/annexx/static/js/main.3368cbef.js",
+    "static/js/787.ebb04c8f.chunk.js": "//qdphung19.github.io/annexx/static/js/787.ebb04c8f.chunk.js",
+    "index.html": "//qdphung19.github.io/annexx/index.html",
+    "main.be66359b.css.map": "//qdphung19.github.io/annexx/static/css/main.be66359b.css.map",
+    "main.3368cbef.js.map": "//qdphung19.github.io/annexx/static/js/main.3368cbef.js.map",
+    "787.ebb04c8f.chunk.js.map": "//qdphung19.github.io/annexx/static/js/787.ebb04c8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be66359b.css",
+    "static/js/main.3368cbef.js"
+  ]
+}
